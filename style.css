@@ -1,0 +1,77 @@
+/* write your CSS here */
+.logo{
+	height:40px;
+	width:40px;
+}
+.hd1
+{
+	font-size: 20px;
+	margin:0px;
+	color:#00a3ea !important;
+	padding:0px;
+}
+.hd2{
+	margin: 0px;
+	padding: 0px;
+	font-size: 15px;
+}
+
+.main{
+	margin:15px;
+	display: grid;
+
+}
+.center{
+	display: flex;
+	justify-content: center;
+	margin:20px;
+	border:none;
+}
+.book{
+	height:80px;
+	width: 60px !important;
+}
+.sub-div, #sub-div{
+	display: flex;
+
+}
+.btn{
+	margin-top: 10px;
+	background-color: #d1eefb !important;
+}
+.image{
+	margin-left: 20px;
+	margin-top: 10px;
+}
+ #quantity{
+ 	background-color: white;
+ 	padding-left:25px;
+ 	padding-right: 25px;
+ 	border-color:#f3f5f6; 
+ }
+ 
+ #decrease {
+ background-color:#00a3ea;
+ color: white;
+}
+ #increase{
+ 	 background-color:#00a3ea;
+ color: white;
+}
+ 
+#derease{
+	font-size: 20px !important;
+}
+.hh2{
+	color: #00a3ea;
+}
+p{
+	font-size: 10px;
+}
+.green{
+	color: #5db142;
+
+}
+.price{
+	font-size: 15px;
+}
